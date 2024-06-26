@@ -9,7 +9,8 @@ Esta es una aplicación web de e-commerce desarrollada con React JS y Vite, util
 3. [Tecnologías Utilizadas](#tecnologías-utilizadas)
 4. [Instalación](#instalación)
 5. [Uso](#uso)
-6. [Autor](#autor)
+6. [Funcionalidades Principales](#funcionalidades-principales)
+7. [Autor](#autor)
 
 ## Descripción
 
