@@ -1,0 +1,18 @@
+.count-container {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.count-container button {
+    font-size: 16px;
+    border-radius: 50%;
+    background-color: #1DB7FD;
+    color: #333;
+    cursor: pointer;
+}
+
+.count-container span {
+    margin: 0 10px;
+    font-size: 18px;
+}

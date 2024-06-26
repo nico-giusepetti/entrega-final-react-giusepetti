@@ -1,0 +1,53 @@
+.contenedor-ordenes {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 1200px;
+}
+
+.orden {
+    border: 2px solid #1DB7FD;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    padding: 20px;
+    transition: box-shadow 0.3s ease;
+}
+
+.orden:hover {
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+.orden-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #1DB7FD;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.orden-header h3 {
+    font-size: 1.2em;
+    color: #333333;
+    margin: 0;
+}
+
+.orden-header p{
+    color: #1DB7FD;
+    font-weight: bold;
+}
+
+.cliente {
+    font-size: 1em;
+    color: #666666;
+}
+
+.mensaje-vacio {
+    font-size: 1.2em;
+    color: #999999;
+    text-align: center;
+    margin: 20px auto;
+}
