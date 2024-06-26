@@ -39,7 +39,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto localmente.
 1. **Clona el repositorio:**
 
    ```bash
-   git clone 
+   git clone https://github.com/nico-giusepetti/entrega-final-react-giusepetti.git
 
 2. **Instala las dependencias:**
 
